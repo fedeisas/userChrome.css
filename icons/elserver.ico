@@ -1,0 +1,11 @@
+--2011-12-22 14:52:43--  http://www.elserver.com/img/favicon.ico
+Resolving www.elserver.com... 190.228.29.81
+Connecting to www.elserver.com|190.228.29.81|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1150 (1.1K) [image/x-icon]
+Saving to: `favicon.ico'
+
+     0K .                                                     100% 73.1M=0s
+
+2011-12-22 14:52:43 (73.1 MB/s) - `favicon.ico' saved [1150/1150]
+

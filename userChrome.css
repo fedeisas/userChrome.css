@@ -1,0 +1,49 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); /* set default namespace to XUL */
+
+.bookmark-item[container="true"] {
+	font-weight:bold;
+}
+.bookmark-item[container="true"][label="Social"] {
+	list-style-image: url('icons/kdmconfig.png') !important;
+	-moz-image-region: rect(0px 16px 16px 0px) !important;
+}
+.bookmark-item[container="true"][label="News"] {
+	list-style-image: url('icons/kontact-news.png') !important;
+	-moz-image-region: rect(0px 16px 16px 0px) !important;
+}
+.bookmark-item[container="true"][label="Downloads"] {
+	list-style-image: url('icons/emblem-downloads.png') !important;
+	-moz-image-region: rect(0px 16px 16px 0px) !important;
+}
+.bookmark-item[container="true"][label="Work"] {
+	list-style-image: url('icons/briefcase.png') !important;
+	-moz-image-region: rect(0px 16px 16px 0px) !important;
+}
+.bookmark-item[label="ElServer | Panel"] {
+	list-style-image: url('icons/elserver.ico') !important;
+	-moz-image-region: rect(0px 16px 16px 0px) !important;
+}
+.bookmark-item[container="true"][label="Queue"] {
+	list-style-image: url('icons/agt_pause-queue.png') !important;
+	-moz-image-region: rect(0px 16px 16px 0px) !important;
+}
+.bookmark-item[container="true"][label="CodeIgniter"] {
+	list-style-image: url('icons/codeigniter.gif') !important;
+	-moz-image-region: rect(0px 16px 16px 0px) !important;
+}
+.bookmark-item[container="true"][label="Facultad"] {
+	list-style-image: url('icons/164.png') !important;
+	-moz-image-region: rect(0px 16px 16px 0px) !important;
+}
+.bookmark-item[container="true"][label="DevBlogs"] {
+	list-style-image: url('icons/spechbubble_2.png') !important;
+	-moz-image-region: rect(0px 16px 16px 0px) !important;
+}
+.bookmark-item[container="true"][label="Ubuntu"] {
+	list-style-image: url('icons/start-here-ubuntuoriginal.png') !important;
+	-moz-image-region: rect(0px 16px 16px 0px) !important;
+}
+.bookmark-item[container="true"][label="UXDepartment"] {
+	list-style-image: url('icons/uxdepartment.png') !important;
+	-moz-image-region: rect(0px 16px 16px 0px) !important;
+}
